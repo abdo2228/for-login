@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1000px;
+    height: 400px;
+
+}
+
+    
+    
+    
+     
+    body{
+        top: 100px;
+        margin: 30px;
+        border: 10px;
+        background: linear-gradient(90deg, rgba(3,255,28,1) 0%, rgba(61,27,255,1) 0%, rgba(255,0,0,1) 100%);
+        
+
+    }
+   span{
+    color: rgb(5, 252, 17);
+}
+  form{
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgb(49, 48, 48);
+}
+
+   a{
+    color: black;
+    text-decoration: none;
+    font-family: PT Sans Narrow;
+    font-size: large;
+}
+h1{
+    font-family: Jost;
+}
